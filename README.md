@@ -1,4 +1,4 @@
-## CNN Cancer Detection Kaggle Mini-Project
+## NLP Disaster Tweets Kaggle Mini-Project
 This is the assignment of CU Boulder's *Introduction to Deep Learning*, Week 4 : Recurrent Neural Network.
 
 ### About dataset
